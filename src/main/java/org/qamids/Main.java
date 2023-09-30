@@ -1,4 +1,4 @@
-package org.example;
+package org.qamids;
 
 public class Main {
     public static void main(String[] args) {
